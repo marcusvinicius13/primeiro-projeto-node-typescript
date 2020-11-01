@@ -26,6 +26,7 @@
 ###                 (yarn add eslint-import-resolver-typescript -D)
 ###                 (yarn add @typescript-eslint/eslint-plugin@latest eslint-config-airbnb-base@latest eslint-plugin-import@^2.21.2 @typescript-eslint/parser@latest -D)
 ###                 (yarn add prettier eslint-config-prettier eslint-plugin-prettier -D)
+###                 (yarn add uuidv4)
 
 
 ##  Arquivos criados / Alterados, para configuração do projeto.

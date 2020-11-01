@@ -1,10 +1,9 @@
 // src/routes/index.ts
-import { Request, Response, Router } from 'express';
+import { Router } from 'express';
+import appointmentsRouter from './appointments.routes';
 
 const routes = Router();
 
-routes.get('/users', (request: Request, response: Response) => {
-    return response.json({ message: 'Hello GoStack' });
-});
+routes.use('/appointments', appointmentsRouter);
 
 export default routes;

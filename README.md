@@ -10,11 +10,11 @@
 
 #   Rodar o projeto após configurar o ts-node-dev (yarn dev:server)
 
-### yarn tsc --init (Cria o arquivo de configuração do typescript "tsconfig.json").
+1° yarn tsc --init (Cria o arquivo de configuração do typescript "tsconfig.json").
 
-### yarn tsc (Transpila o código typescript para javascript, como configuramos a pasta onde ficaram os arquivos transpilados para a pasta dist, no diretório raqiz da apliucação então será lá onde ficaram os arquivos transpilado se essa pasta não tiver sido criada ela será criada de forma automática).
+2° yarn tsc (Transpila o código typescript para javascript, como configuramos a pasta onde ficaram os arquivos transpilados para a pasta dist, no diretório raqiz da apliucação então será lá onde ficaram os arquivos transpilado se essa pasta não tiver sido criada ela será criada de forma automática).
 
-### yarn eslint --init ()
+3° yarn eslint --init ()
 
 ##  Bibliotecas adicionadas
 

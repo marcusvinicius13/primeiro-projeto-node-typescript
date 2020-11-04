@@ -55,3 +55,9 @@ tsconfig.json
     O Prettier consiste em várias configurações que são feitas para que o código seja formatado para seguir um padrão.
 
     https://www.notion.so/Prettier-e2c6a3ec188c4cce8890a3e16a0d6425#da104f9b05964ec1aaac067ab2bf8a54
+
+#   SOLID
+    https://www.notion.so/Repository-service-e-patterns-82419cceb11c4c4fbbc055ade7fb1ac5
+
+##  Single Responsability Principle
+##  Dependency Invertion Principle
